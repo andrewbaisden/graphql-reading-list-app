@@ -1,6 +1,6 @@
 # GraphQL User Dashboard App
 
-![GraphQL User Dashboard App](https://res.cloudinary.com/d74fh3kw/image/upload/v1582577266/gql_reading_list_qdwh1m.jpg 'GraphQL User Dashboard App')
+![GraphQL User Dashboard App](/img/graphql-reading-list-app.jpeg 'GraphQL User Dashboard App')
 
 ## Prerequisite
 
